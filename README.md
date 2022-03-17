@@ -7,12 +7,15 @@
 
 - ⚡ Fun fact **I am a person in love with the sea. I love being with people.**
 
+- 📄 Know about my experiences here my [CV](https://app.flowcv.io/resume-feedback/eT8fBp0sg57m4GV3ScnPD)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nazliisnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nazliisnn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nazliisn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazliisn" height="30" width="40" /></a>
 <a href="https://instagram.com/nazliisn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazliisn" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nazlisn123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nazlisn123" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
