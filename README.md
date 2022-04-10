@@ -24,3 +24,9 @@
 <p><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=nazliisn&show_icons=true&locale=en" alt="nazliisn" /></p>
 
 <p>&nbsp;&nbsp;<img align="center" width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazliisn&show_icons=true&locale=en&layout=compact" alt="nazliisn" /></p>
+
+
+<div align="center"> 
+  <p>Visitor Count<br></p>
+  <img src="https://profile-counter.glitch.me/nazliisn/count.svg" />
+</div>
